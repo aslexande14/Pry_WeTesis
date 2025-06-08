@@ -1,0 +1,806 @@
+[
+  {
+    "state-province": null,
+    "name": "Universidad Marcelino Champagnat",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.champagnat.edu.pe/"
+    ],
+    "domains": [
+      "champagnat.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Agraria La Molina",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.lamolina.edu.pe/"
+    ],
+    "domains": [
+      "lamolina.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Pontificia Universidad Católica del Perú",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.pucp.edu.pe/"
+    ],
+    "domains": [
+      "pucp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad San Ignacio de Loyola",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.sil.edu.pe/"
+    ],
+    "domains": [
+      "sil.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Andina Nestor Caceares Velasquez",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uancv.edu.pe/"
+    ],
+    "domains": [
+      "uancv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Andina del Cusco",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uandina.edu.pe/"
+    ],
+    "domains": [
+      "uandina.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Alas Peruanas",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uap.edu.pe/"
+    ],
+    "domains": [
+      "uap.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad de Ciencias y Humanidades",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uch.edu.pe/"
+    ],
+    "domains": [
+      "uch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Católica de Santa María",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.ucsm.edu.pe/"
+    ],
+    "domains": [
+      "ucsm.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Cientifica del Sur",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.ucsur.edu.pe/"
+    ],
+    "domains": [
+      "ucsur.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad César Vallejo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.ucv.edu.pe/"
+    ],
+    "domains": [
+      "ucv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Particular de Chiclayo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.udch.edu.pe/"
+    ],
+    "domains": [
+      "udch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad de Piura",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.udep.edu.pe/"
+    ],
+    "domains": [
+      "udep.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad de Huánuco",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.udh.edu.pe/"
+    ],
+    "domains": [
+      "udh.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad de Lambayeque",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.udl.edu.pe/"
+    ],
+    "domains": [
+      "udl.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Particular Inca Garcilaso de la Vega",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uigv.edu.pe/"
+    ],
+    "domains": [
+      "uigv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Los Angeles de Chimbote",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uladech.edu.pe/"
+    ],
+    "domains": [
+      "uladech.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad de Lima",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.ulima.edu.pe/"
+    ],
+    "domains": [
+      "ulima.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada Juan Mejía Baca",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.umb.edu.pe/"
+    ],
+    "domains": [
+      "umb.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional del Callao",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unac.edu.pe/"
+    ],
+    "domains": [
+      "unac.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional del Altiplano",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unap.edu.pe/"
+    ],
+    "domains": [
+      "unap.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de la Amazonía Peruana",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unapiquitos.edu.pe/"
+    ],
+    "domains": [
+      "unapiquitos.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Santiago Antúnez de Mayolo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unasam.edu.pe/"
+    ],
+    "domains": [
+      "unasam.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Agraria de la Selva",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unas.edu.pe/"
+    ],
+    "domains": [
+      "unas.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Cajamarca",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unc.edu.pe/"
+    ],
+    "domains": [
+      "unc.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional del Centro del Perú",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uncp.edu.pe/"
+    ],
+    "domains": [
+      "uncp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Daniel Alcides Carrion",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.undac.edu.pe/"
+    ],
+    "domains": [
+      "undac.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Educación Enrique Guzmán y Valle",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.une.edu.pe/"
+    ],
+    "domains": [
+      "une.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Federico Villarreal",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unfv.edu.pe/"
+    ],
+    "domains": [
+      "unfv.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Hermilio Valdizan",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unheval.edu.pe/"
+    ],
+    "domains": [
+      "unheval.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional San Luis Gonzaga",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unica.edu.pe/"
+    ],
+    "domains": [
+      "unica.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Ingeniería",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uni.edu.pe/"
+    ],
+    "domains": [
+      "uni.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Femenina del Sagrado Corazón",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unife.edu.pe/"
+    ],
+    "domains": [
+      "unife.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de La Libertad, Trujillo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unitru.edu.pe/"
+    ],
+    "domains": [
+      "unitru.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Jorge Basadre Grohmann",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unjbg.edu.pe/"
+    ],
+    "domains": [
+      "unjbg.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional José Faustino Sánchez Carrión",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unjfsc.edu.pe/"
+    ],
+    "domains": [
+      "unjfsc.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Mayor de San Marcos",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unmsm.edu.pe/"
+    ],
+    "domains": [
+      "unmsm.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Piura",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unp.edu.pe/"
+    ],
+    "domains": [
+      "unp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional Pedro Ruíz Gallo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unprg.edu.pe/"
+    ],
+    "domains": [
+      "unprg.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de San Antonio Abad",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unsaac.edu.pe/"
+    ],
+    "domains": [
+      "unsaac.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de San Agustin",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unsa.edu.pe/"
+    ],
+    "domains": [
+      "unsa.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de San Cristóbal de Huamanga",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unsch.edu.pe/"
+    ],
+    "domains": [
+      "unsch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Santa - Chimbote",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uns.edu.pe/"
+    ],
+    "domains": [
+      "uns.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de San Martín",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unsm.edu.pe/"
+    ],
+    "domains": [
+      "unsm.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Tumbes",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.untumbes.edu.pe/"
+    ],
+    "domains": [
+      "untumbes.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Nacional de Ucayali",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.unu.edu.pe/"
+    ],
+    "domains": [
+      "unu.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada Antenor Orrego",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upao.edu.pe/"
+    ],
+    "domains": [
+      "upao.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Peruana de Ciencias Aplicadas",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upc.edu.pe/"
+    ],
+    "domains": [
+      "upc.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Peruana Cayetano Heredia",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upch.edu.pe/"
+    ],
+    "domains": [
+      "upch.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Peruana de Ciencias e Informática",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upci.edu.pe/"
+    ],
+    "domains": [
+      "upci.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad del Pacifico",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.up.edu.pe/"
+    ],
+    "domains": [
+      "up.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Peruana Union",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upeu.edu.pe/"
+    ],
+    "domains": [
+      "upeu.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada Los Andes",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upla.edu.pe/"
+    ],
+    "domains": [
+      "upla.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada del Norte",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upnorte.edu.pe/"
+    ],
+    "domains": [
+      "upnorte.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada Sergio Bernales",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upsb.edu.pe/"
+    ],
+    "domains": [
+      "upsb.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada San Juan Bautista",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upsjb.edu.pe/"
+    ],
+    "domains": [
+      "upsjb.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada de Tacna",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.upt.edu.pe/"
+    ],
+    "domains": [
+      "upt.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Ricardo Palma",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.urp.edu.pe/"
+    ],
+    "domains": [
+      "urp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Privada San Pedro",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.usanpedro.edu.pe/"
+    ],
+    "domains": [
+      "usanpedro.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Católica Santo Toribio de Mogrovejo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.usat.edu.pe/"
+    ],
+    "domains": [
+      "usat.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad San Martin de Porres",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.usmp.edu.pe/"
+    ],
+    "domains": [
+      "usmp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad San Pablo",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.usp.edu.pe/"
+    ],
+    "domains": [
+      "usp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Señor de Sipán",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uss.edu.pe/"
+    ],
+    "domains": [
+      "uss.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Tecnológica de los Andes de Apurímac",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.utea.edu.pe/"
+    ],
+    "domains": [
+      "utea.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Tecnológica del Peru",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.utp.edu.pe/"
+    ],
+    "domains": [
+      "utp.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad Norbert Wiener",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "http://www.uwiener.edu.pe/"
+    ],
+    "domains": [
+      "uwiener.edu.pe"
+    ],
+    "country": "Peru"
+  },
+  {
+    "state-province": null,
+    "name": "Universidad de Ingeniería y Tecnología",
+    "alpha_two_code": "PE",
+    "web_pages": [
+      "https://utec.edu.pe/"
+    ],
+    "domains": [
+      "utec.edu.pe"
+    ],
+    "country": "Peru"
+  }
+]

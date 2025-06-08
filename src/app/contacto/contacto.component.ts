@@ -27,7 +27,7 @@ export class ContactoComponent implements OnInit{
     this.obtenerUniversidades();
   }
   obtenerUniversidades() {
-    this.http.get<any[]>('http://universities.hipolabs.com/search?country=Peru')
+    this.http.get<any[]>('assets/universidades.json')
       .subscribe(data => {
         this.universidades = data;
       }, error => {

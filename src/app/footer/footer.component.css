@@ -1,0 +1,16 @@
+.footer ul {
+    padding: 0;
+  }
+  
+  .footer ul li {
+    margin-bottom: 20px;
+  }
+  
+  .footer img {
+    filter: brightness(0.9);
+  }
+  
+  .footer a:hover {
+    color: #307cd3 !important; /* Amarillo Bootstrap */
+  }
+  

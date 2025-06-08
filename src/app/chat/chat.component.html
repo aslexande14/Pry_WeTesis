@@ -1,0 +1,33 @@
+
+
+<div class="chat-container" style="border-radius: 15px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); overflow: hidden;">
+    <div class="chat-button" (click)="toggleChat()">
+      <img src="whatsapp-icon.png" alt="WhatsApp" style="width: 50px; cursor: pointer;">
+    </div>
+
+    <div class="chat-popup" *ngIf="isOpen" style="border: 2px solid #25d366; border-radius: 15px;">
+      <div class="chat-header" style="background-color: #075e54; color: #fff; padding: 10px; display: flex; justify-content: space-between; align-items: center;">
+        <div class="header-info" style="display: flex; align-items: center;">
+          <img src="operador.png" alt="Asesor en Línea" style="width: 30px; height: 30px; border-radius: 50%; margin-right: 10px;">
+          <div>
+            <h5 style="margin: 0; font-size: 14px;">Asesor en Línea</h5>
+            <span style="font-size: 12px;">Online</span>
+          </div>
+        </div>
+        <span class="close-btn" (click)="toggleChat()" style="cursor: pointer; color: #fff;">✖️</span>
+      </div>
+  
+      <div class="chat-body" style="padding: 10px;">
+        <div class="message-bubble" style="background-color: #f1f0f0; border-radius: 10px; padding: 8px 12px; margin-bottom: 10px;">
+          <p style="margin: 0;">Hola 👋</p>
+          <strong>¿Necesitas ayuda?</strong>
+        </div>
+      </div>
+  
+      <div class="chat-footer" style="display: flex; align-items: center; border-top: 1px solid #ccc; padding: 5px;">
+        <input type="text" [(ngModel)]="message" placeholder="Mensaje" style="flex: 1; border: none; padding: 5px; border-radius: 10px;">
+        <button (click)="sendMessage()" style="background-color: #25d366; color: #fff; border: none; border-radius: 50%; padding: 5px 10px; cursor: pointer;">➤</button>
+      </div>
+    </div>
+  </div>
+  

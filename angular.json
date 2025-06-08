@@ -61,7 +61,7 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/Pry_TesisWeb/"
+              "baseHref": "/Pry_WeTesis/"
             },
             "development": {
               "optimization": false,
